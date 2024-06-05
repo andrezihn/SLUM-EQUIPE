@@ -1,14 +1,11 @@
-.cabeça{
-
+.cartão-1{
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 40px;
 }
-.nav-link{
+.cardo{
     margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
 }
-.card{
-    margin-left: 20px;
-    margin-bottom: 20px;
-    
-}
-#body{
-    background-color: aquamarine;
-}
+.imagem-1{}
